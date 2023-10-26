@@ -1,0 +1,58 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1289085646/vector/holiday-abstract-shiny-color-gold-design-element.jpg?s=1024x1024&w=is&k=20&c=YwmabyEEjy-2pjcSOcR8rKwktalLEcuMq0b8qtb6Vq0=")
+    
+}
+#JANUARY{
+    display:inline-block;
+    background-color:rgb(255, 255, 255);
+    margin-left:300px; 
+    color:rgb(0, 0, 0);
+    padding:15px;
+    padding-left:5px;
+    padding-right: 5px;
+    font-size:30px;
+    margin-bottom:15px;
+    border:5px solid rgb(250, 239, 29);
+    border-radius:9px;
+
+}
+#CH{
+    font-size: 20px;
+    margin-bottom: 10px;
+    color:rgb(245, 0, 106);
+    font-family:cursive;
+}
+#E-in-jan{
+    font-family:sans-serif;
+    font-size: 18px;
+    color:rgb(232, 239, 133);
+    margin-left:4px;
+    margin-bottom: 13px;
+}
+#E-in-jan:hover{
+    background-color: rgb(222, 30, 120);
+}
+#f1{
+    height:100px;
+    width:200px;
+    display: inline-block;
+    color:black;
+    background-color:white;
+    position:absolute;
+    transform: scale(1.5);
+    bottom: 55px;
+    right: 110px;
+    border:6px solid black;
+    border-radius: 8px;
+}
+#sub{
+    display:inline-block;
+    margin-top:75px;
+    margin-left: 100px;
+    color:rgb(255, 0, 144);
+    font-size: larger;
+    background-color:white;
+    font-size: 20px;
+    border:3px solid black;
+    transform: scale(2);
+}
